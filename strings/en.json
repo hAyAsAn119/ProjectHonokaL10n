@@ -146,5 +146,18 @@
     "PATREON_COPY_TOKEN_BUTTON": "Copy token to clipboard",
     "PATREON_REGENERATE_API_TOKEN": "Regenerate API Token",
     "PATREON_COPY_TOKEN_SUCCESS": "Token copied successfully.",
-    "PATREON_COMING_SOON": "Coming Soon"
+    "PATREON_COMING_SOON": "Coming Soon",
+    "COMMON_WELCOME": "Welcome to Project Honoka",
+    "COMMON_WELCOME_SUBTITLE": "Since it's your first time, you need to set up some things in order to start to use Project Honoka.",
+    "SETTINGS_SELECT_LANGUAGE": "Select the UI Language",
+    "LANGUAGE_EN": "English",
+    "LANGUAGE_JA": "Japanese",
+    "LANGUAGE_IT": "Italian",
+    "SETTINGS_SELECT_DEFAULT_SERVER": "Select the origin server which you would like to see the data",
+    "SETTINGS_SELECT_DEFAULT_SERVER_MESSAGE_ONLY_ONE": "Currently you can only see Japanese server information...",
+    "SETTINGS_SELECT_THEME": "Select a theme",
+    "SETTINGS_THEME_LIGHT": "Light theme",
+    "SETTINGS_THEME_DARK": "Dark theme",
+    "SETTINGS_SAVE_BUTTON": "Save settings",
+    "SETTINGS_PAGE_TITLE": "Settings"
 }
