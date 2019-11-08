@@ -27,3 +27,7 @@ File names **MUST** follow this format:
 * `Strings`: `<lang>.json`
 
 where lang is the name of the language using **ONLY** two chars like `en` (English) or `ja` (Japanese).
+
+## Updates
+
+I was planning to make a Discord Server where we may discuss together and easily about how to translate the various strings/documentations. For now you may just read the file `<lang>.log` inside the `reports` folder to see which entries had been added.
